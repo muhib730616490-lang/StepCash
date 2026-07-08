@@ -1,0 +1,6 @@
+{
+  "name": "Walk Earn",
+  "description": "A comprehensive Arabic/English Walk-to-Earn Android app. Track steps, earn points, manage rewards, complete daily tasks, access a shop, and manage users and configurations with an integrated Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
